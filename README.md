@@ -1,0 +1,1 @@
+Üçüncü çeyrekte Kaliforniya'da ev telefonu ve internet hizmeti alan 7043 müşterinin bilgilerini içeren telco müşteri kaybı verileri, hayali bir telekom şirketinin müşteri durumlarını gösterir. Modeli geliştirirken gerekli veri analizi ve özellik mühendisliği adımları uygulanmıştır.
